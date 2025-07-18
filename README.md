@@ -62,17 +62,17 @@
 
 - 🌐 **NGO Management Platform** – End-to-end web platform for managing NGO activities and donations.  
   _Tech:_ `React`, `Node.js`, `MongoDB`  
-  🔗 `[Add Repo or Live Link]`
+  
 
 - 🛡️ **AI Phishing Detection System** – Detects phishing attempts using AI models and real-time threat analysis.  
   _Tech:_ `Python`, `Scikit-learn`, `Flask`  
-  🔗 `[Add Repo or Live Link]`
+ 
 
 - 🎤 **Voice Cloning App** – Clone any voice sample using Python libraries and ML.  
-  🔗 `[Add Repo Link]`
+
 
 - 📊 **Automated Scraper & Cleaner** – Web data scraper and Excel transformer.  
-  🔗 `[Add Repo Link]`
+  
 
 ---
 
